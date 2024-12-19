@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b761e80802049b581709632ad2051b0, type: 3}
+  m_Name: LettersCardBundleData
+  m_EditorClassIdentifier: 
+  <CardData>k__BackingField:
+  - <Identifier>k__BackingField: A
+    <Sprite>k__BackingField: {fileID: 4963718625464178563, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: B
+    <Sprite>k__BackingField: {fileID: 7783457984840754399, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: C
+    <Sprite>k__BackingField: {fileID: 3234300448368640894, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: D
+    <Sprite>k__BackingField: {fileID: 7911670913450602933, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: E
+    <Sprite>k__BackingField: {fileID: 4652326554734856401, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: F
+    <Sprite>k__BackingField: {fileID: -6426668015567183463, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: G
+    <Sprite>k__BackingField: {fileID: 216406037199867053, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: H
+    <Sprite>k__BackingField: {fileID: -8235857483100294123, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: I
+    <Sprite>k__BackingField: {fileID: -3541686595128163680, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: J
+    <Sprite>k__BackingField: {fileID: -2756605603065543306, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: K
+    <Sprite>k__BackingField: {fileID: -1127063002332224934, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: L
+    <Sprite>k__BackingField: {fileID: -5901097786099144959, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: M
+    <Sprite>k__BackingField: {fileID: 3295844289267200183, guid: ef1673f794694094bb1893b76d154c41, type: 3}
+  - <Identifier>k__BackingField: N
+    <Sprite>k__BackingField: {fileID: 7112752472869403061, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: O
+    <Sprite>k__BackingField: {fileID: 5433449995169814141, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: P
+    <Sprite>k__BackingField: {fileID: -4252152113809563852, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: Q
+    <Sprite>k__BackingField: {fileID: -4447791616812998045, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: R
+    <Sprite>k__BackingField: {fileID: -6342808464625005154, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: S
+    <Sprite>k__BackingField: {fileID: 8083504644574312765, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: T
+    <Sprite>k__BackingField: {fileID: -4461999128152558772, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: U
+    <Sprite>k__BackingField: {fileID: 3270655726746431581, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: V
+    <Sprite>k__BackingField: {fileID: -2983290644488427326, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: W
+    <Sprite>k__BackingField: {fileID: -9165466868132007793, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: X
+    <Sprite>k__BackingField: {fileID: 4461586319009975920, guid: 1bb8710ff76b0ac448ae4b8ff42bb26e, type: 3}
+  - <Identifier>k__BackingField: Y
+    <Sprite>k__BackingField: {fileID: -5001085640463096552, guid: d66ea04032c8f844ba0dbff9b5c329bb, type: 3}
+  - <Identifier>k__BackingField: Z
+    <Sprite>k__BackingField: {fileID: 3539555106843919260, guid: d66ea04032c8f844ba0dbff9b5c329bb, type: 3}
